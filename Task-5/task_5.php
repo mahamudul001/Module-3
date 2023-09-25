@@ -18,3 +18,4 @@ $generatedPassword = generatePassword($length);
 
 // Print the generated password
 echo "Generated Password: " . $generatedPassword;
+?>

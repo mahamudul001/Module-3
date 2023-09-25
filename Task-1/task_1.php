@@ -2,7 +2,8 @@
 
 $text = "The quick brown fox jumps over the lazy dog.";
 
-function modifyText($text) {
+function modifyText($text)
+{
     // Convert the string to all lowercase
     $text = strtolower($text);
 
@@ -13,7 +14,5 @@ function modifyText($text) {
 }
 
 
-
 modifyText($text);
-
 ?>
