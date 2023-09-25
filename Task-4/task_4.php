@@ -15,3 +15,4 @@ function calculateAverageGrades($studentGrades){
 }
 
 calculateAverageGrades($studentGrades);
+?>

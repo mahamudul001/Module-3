@@ -10,3 +10,4 @@ function removeEvenNumbers($numbers){
   print_r($result);
 }
 removeEvenNumbers($numbers);
+?>

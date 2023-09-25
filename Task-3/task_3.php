@@ -9,3 +9,4 @@ function sortGradesDescending($grades)
   print_r($grades);
 }
 sortGradesDescending($grades);
+?>
